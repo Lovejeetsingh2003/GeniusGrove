@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601638753235",
+    "project_id": "geniusgrove-4af55",
+    "storage_bucket": "geniusgrove-4af55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601638753235:android:be0a076ba38c3fe22e5526",
+        "android_client_info": {
+          "package_name": "com.lovejeet.geniusgrove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601638753235-6u8ptq8dig95d19nop1sa6ptmkp77pc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhx3QwvKvXtInGxN3q1C7h42l_6PGdt_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601638753235-6u8ptq8dig95d19nop1sa6ptmkp77pc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation.xml"
+    app:startDestination="@id/getStartFragment2">
+
+    <fragment
+        android:id="@+id/forgetPasswordFragment"
+        android:name="com.lovejeet.firebaseauthentication.Fragments.ForgetPasswordFragment"
+        android:label="fragment_forget_password"
+        tools:layout="@layout/fragment_forget_password" />
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.lovejeet.firebaseauthentication.Fragments.SignUpFragment"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.lovejeet.firebaseauthentication.Fragments.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.lovejeet.firebaseauthentication.Activity.MainActivity"
+        android:label="fragment_getstart"
+        tools:layout="@layout/fragment_getstart" />
+    <fragment
+        android:id="@+id/getStartFragment2"
+        android:name="com.lovejeet.firebaseauthentication.Fragments.GetStartFragment"
+        android:label="GetStartFragment" />
+</navigation>

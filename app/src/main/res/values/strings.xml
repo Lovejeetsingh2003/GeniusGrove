@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GeniusGrove</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv1">Let\'s make this day productive</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="type">Type</string>
+    <string name="get_started_text">Challenge yourself with a variety of educational quizzes designed to spark curiosity.</string>
+    <string name="get_started">GET START</string>
+
+    <string name="btnLogin">Login</string>
+    <string name="Login">Login</string>
+    <string name="etUsername">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="tvLogin">Login With Google</string>
+    <string name="tvForgetPassword">Forget Password?</string>
+    <string name="tvNewAccount">New To Genius Grove?</string>
+    <string name="tvSignUp">Sign Up</string>
+    <string name="tvAlreadyHaveAccount">Already Have Account?</string>
+    <string name="btnSignUp">Sign UP</string>
+    <string name="etName">Name</string>
+    <string name="forgot_password_msg">Don\'t worry! it happens. Please enter the email address associated with your account.</string>
+    <string name="tvForgetPasswordEmail">Email</string>
+    <string name="tvSignUpNow">Sign Up Now</string>
+    <string name="btnForgetPsw">Forget Password</string>
+</resources>
